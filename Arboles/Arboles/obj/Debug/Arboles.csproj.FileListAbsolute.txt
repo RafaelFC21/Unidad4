@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Arboles\Arboles\obj\Debug\Arboles.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Arboles\Arboles\obj\Debug\Arboles.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Arboles\Arboles\bin\Debug\Arboles.exe.config
+C:\Users\Acer\source\repos\Arboles\Arboles\bin\Debug\Arboles.exe
+C:\Users\Acer\source\repos\Arboles\Arboles\bin\Debug\Arboles.pdb
+C:\Users\Acer\source\repos\Arboles\Arboles\obj\Debug\Arboles.exe
+C:\Users\Acer\source\repos\Arboles\Arboles\obj\Debug\Arboles.pdb
