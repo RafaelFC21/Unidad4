@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\grafos\grafos\bin\Debug\grafos.exe.config
+C:\Users\Acer\source\repos\grafos\grafos\bin\Debug\grafos.exe
+C:\Users\Acer\source\repos\grafos\grafos\bin\Debug\grafos.pdb
+C:\Users\Acer\source\repos\grafos\grafos\obj\Debug\grafos.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\grafos\grafos\obj\Debug\grafos.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\grafos\grafos\obj\Debug\grafos.exe
+C:\Users\Acer\source\repos\grafos\grafos\obj\Debug\grafos.pdb
